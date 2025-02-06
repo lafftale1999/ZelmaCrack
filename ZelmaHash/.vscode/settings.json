@@ -74,12 +74,15 @@
         "list": "cpp",
         "unordered_map": "cpp",
         "xhash": "cpp",
-        "unordered_set": "cpp"
+        "unordered_set": "cpp",
+        "condition_variable": "cpp",
+        "functional": "cpp",
+        "future": "cpp"
     },
     "makefile.launchConfigurations": [
         {
             "cwd": "c:\\Users\\prett\\Desktop\\dev\\ZelmaHash",
-            "binaryPath": "c:\\Users\\prett\\Desktop\\dev\\ZelmaHash\\programmet-ZelmaHash-debug.exe",
+            "binaryPath": "c:\\Users\\prett\\Desktop\\dev\\ZelmaHash\\bin\\debug\\ZelmaHash-debug.exe",
             "binaryArgs": []
         }
     ]

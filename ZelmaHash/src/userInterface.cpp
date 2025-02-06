@@ -200,8 +200,7 @@ int runZelmaCracker(Victim victim)
     std::string userStrInput = getStringInput("ZelmaCracker. Try your password\n"
                                 "Trying passwords without spice as standard. Trying with first letter lower and uppercase."
                                 "Enter the numbers for spice. Ex - '13' for (+ numbers between 0-99 and + leetspeak)", "> ",
-                                {"No spice - to spicy",
-                                "+ numbers between 0-99 (5.5paws/ms)",
+                                {"+ numbers between 0-99 (5.5paws/ms)",
                                 "+ normal addons (slow 0.1paws/ms)",
                                 "+ leetspeak (VERY slow 0.02paws/ms)"});
 
